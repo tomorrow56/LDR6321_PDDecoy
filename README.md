@@ -4,7 +4,7 @@
 ## PCB
 
 ### Raw PCB
-![PCB](toragi/img/01_raw_brd.jpg)
+![PCB](img/01_raw_brd.jpg)
 
 [Gerber file is here](Gerber)
 
