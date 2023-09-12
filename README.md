@@ -4,17 +4,17 @@
 ## PCB
 
 ### Raw PCB
-![PCB](/toragi/img/01_raw_brd.jpg)
+![PCB](toragi/img/01_raw_brd.jpg)
 
-[Gerber file is here](/Gerber)
+[Gerber file is here](Gerber)
 
 ### Assembled
-![assembled](/img/02_assembled.jpg)
+![assembled](img/02_assembled.jpg)
 
 ## Schematics
-![schematics](/img/03_Schematics.png)
+![schematics](img/03_Schematics.png)
 
 ## BOM
-![bom](/bom/ldr6321_bom.png)
+![bom](bom/ldr6321_bom.png)
 
-[csv file is here](/bom/ldr6321_bom.csv)
+[csv file is here](bom/ldr6321_bom.csv)
