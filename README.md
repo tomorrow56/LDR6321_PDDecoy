@@ -12,7 +12,7 @@
 ![assembled](/img/02_assembled.jpg)
 
 ## Schematics
-![schematics](/img/03_Schematics.png)
+![schematics](/img/03_schematics.png)
 
 ## BOM
 ![bom](/bom/ldr6321_bom.png)
